@@ -27,7 +27,8 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
+  ## Subcategory Stats
+  ![image](https://user-images.githubusercontent.com/57304123/89097424-a9c2f180-d393-11ea-949c-e9123cecc147.png)
 
   * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
