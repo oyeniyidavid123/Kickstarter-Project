@@ -78,7 +78,8 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   * 45000 to 49999
   * Greater than or equal to 50000
 
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
+  ## Goal Outcomes
+  ![image](https://user-images.githubusercontent.com/57304123/89097308-c0b51400-d392-11ea-86ea-a57877ef4e44.png)
 
 * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
